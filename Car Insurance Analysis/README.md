@@ -1,7 +1,7 @@
 # Car Insurance Analysis with BigQuery, Tableau and Google Data Studio
 # Overview
  This project involves the use of SQL, Tableau and google data studio for data analysis and visualizations of car insurance data to create dashboard for upper management and operational teams. 
- [Tableau Dashboard](https://public.tableau.com/app/profile/temitope.otesanya/viz/CarInsuranceAnalysis_17081945548890/Dashboard3))
+ [Tableau Dashboard](https://public.tableau.com/app/profile/temitope.otesanya/viz/CarInsuranceAnalysis_17081945548890/Dashboard3),
  [Data Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/fe2766ab-757e-4e7f-8d0b-688224e6af60/page/ofetD)
 # High-Level Steps
 1. **Setting up data in google BigQuery**
